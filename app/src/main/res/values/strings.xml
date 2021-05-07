@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Registration App</string>
+    <string name="title">Registration Form</string>
+    <string name="subtext">Welcome to BobbyTan\'s Learning Club!</string>
+    <string name="name">Full Name</string>
+    <string name="school">School</string>
+    <string name="country_prompt">Choose a country</string>
+    <string name="fName">First Name</string>
+    <string name="lName">Last Name</string>
+    <string name="gender">Gender</string>
+    <string name="f">Female</string>
+    <string name="m">Male</string>
+    <string name="id">Student ID</string>
+    <string name="email">Email</string>
+    <string name="register">REGISTER</string>
+    <string name="phone">Phone</string>
+    <string name="photo">bobbytan</string>
+
+    <string-array name="schools">
+        <item>School of Infocomm [SOI]</item>
+        <item>School of Technology for the Arts [STA]</item>
+        <item>School of Applied Science [SAS]</item>
+        <item>School of Engineering [SEG]</item>
+        <item>School of Hospitality [SOH]</item>
+        <item>School of Management and Communication [SMC]</item>
+        <item>School of Sports, Health and Leisure [SHL]</item>
+    </string-array>
+
+</resources>
